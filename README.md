@@ -1,6 +1,6 @@
 # Pr-ctica-3.-Viajando-en-el-Tiempo-y-Corrigiendo-el-Historial
 
-3. Ejercicios de Autoevaluación
+## 3. Ejercicios de Autoevaluación
     1. Identificación de Versiones: ¿Cuál es el hash abreviado del commit donde solo existía la función sumar (C1)?
 	El hash abreviado del commit C1 (donde solo existía la función sumar) es c94c784 (tal como apareció en tu historial con git log --oneline
 
